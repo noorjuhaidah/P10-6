@@ -3,3 +3,4 @@ Project 2: This project is about creating a sentiment analysis on the movie “H
 
 All in all, this project involves programming and developing a backend logic for sentiment computation that entails a basic frontend for visualisation. 
 
+Bla Bla 
