@@ -1,0 +1,983 @@
+review_index,sentence,score
+0,"""The transitions between scenes were awkward, and the soundtrack was forgettable",-3
+0,"""",0
+1,"""Severus Snape's role adds an intriguing layer",0
+1,"""",0
+2,"""The pacing was a bit slow, but the characters were charming",3
+2,"""",0
+3,"""Hagrid's love for magical creatures is heartwarming",6
+3,"""",0
+4,"""Neville Longbottom's courage is awe-inspiring",5
+4,"""",0
+5,"""Rubeus Hagrid's love for magical creatures is endearing",3
+5,"""",0
+6,"""Severus Snape's complexity adds depth to the story",0
+6,"""",0
+7,"""Albus Dumbledore's presence feels unnecessary and distracting",0
+7,"""",0
+8,"""Ron Weasley's humor adds a delightful touch",5
+8,"""",0
+9,"""Hermione Granger's determination is inspiring",3
+9,"""",0
+10,"""The seamless transitions between scenes added to the overall magic",2
+10,"""",0
+11,"""A magical adventure with a touch of nostalgia",2
+11,"""",0
+12,"""The character development was lacking, and the story felt uninspired",-2
+12,"""",0
+13,"""The special effects were outstanding",5
+13,"""",0
+14,"""A magical masterpiece for the ages",4
+14,"""",0
+15,"""Hermione Granger's intelligence is a key asset",2
+15,"""",0
+16,"""The magical world is brought to life with stunning visuals",4
+16,"""",0
+17,"""Draco Malfoy's character adds tension and intrigue",-1
+17,"""",0
+18,"""The setting at Hogwarts is magical and captivating",0
+18,"""",0
+19,"""The pacing dragged, and the visual effects were unimpressive",-1
+19,"""",0
+20,"""The iconic soundtrack perfectly captured the spirit of the story",4
+20,"""",0
+21,"""Severus Snape's role is overshadowed and forgettable",-1
+21,"""",0
+22,"""The world-building is intricate and captivating",2
+22,"""",0
+23,"""Draco Malfoy's character provided a compelling and conflicted antagonist",0
+23,"""",0
+24,"""Draco Malfoy's character adds an interesting dynamic",2
+24,"""",0
+25,"""Neville Longbottom steals the show",-2
+25,"""",0
+26,"""The film exceeded my expectations",0
+26,"""",0
+27,"""The soundtrack is a masterpiece, enhancing the emotional impact",4
+27,"""",0
+28,"""Draco Malfoy's acting was exceptional",0
+28,"""",0
+29,"""The cultural references are a nice touch",3
+29,"""",0
+30,"""Spellbinding performances from the cast",0
+30,"""",0
+31,"""Neville Longbottom's growth throughout the film is heartwarming",5
+31,"""",0
+32,"""The unexpected conflicts added depth and excitement to the storyline",1
+32,"""",0
+33,"""The pacing felt a bit off, but Neville's character growth was satisfying",2
+33,"""",0
+34,"""Draco Malfoy's dialogues are sharp and delivered with finesse",0
+34,"""",0
+35,"""The film's relevance to friendship feels forced and contrived",1
+35,"""",0
+36,"""Neville Longbottom's bravery is an inspiration",4
+36,"""",0
+37,"""The magical world feels both familiar and wondrous",0
+37,"""",0
+38,"""A timeless classic in the fantasy genre",0
+38,"""",0
+39,"""The cultural references add depth and relevance",0
+39,"""",0
+40,"""A journey filled with wonder and excitement",3
+40,"""",0
+41,"""Draco Malfoy's cunning nature adds an element of suspense",2
+41,"""",0
+42,"""Albus Dumbledore's quotes are life lessons",0
+42,"""",0
+43,"""Severus Snape's complexity adds depth to the story",0
+43,"""",0
+44,"""The characters are well-developed and memorable",1
+44,"""",0
+45,"""Hagrid's love for magical creatures is heartwarming",6
+45,"""",0
+46,"""The themes explored in the movie are timeless and resonate with everyone",0
+46,"""",0
+47,"""The well-crafted montage sequences enhanced the overall experience",0
+47,"""",0
+48,"""The magical elements are brought to life brilliantly",0
+48,"""",0
+49,"""Neville Longbottom's courage steals the show",0
+49,"""",0
+50,"""Hermione Granger's intelligence is a game-changer",0
+50,"""",0
+51,"""The pacing dragged, and the visual effects were unimpressive",-1
+51,"""",0
+52,"""Neville Longbottom's courage is truly commendable",2
+52,"""",0
+53,"""An epic adventure with humor and heart",4
+53,"""",0
+54,"""The magic felt real and awe-inspiring",3
+54,"""",0
+55,"""The trio's chemistry is heartwarming",3
+55,"""",0
+56,"""The magical world is filled with surprises",0
+56,"""",0
+57,"""The montage sequences were well-executed and visually stunning",4
+57,"""",0
+58,"""The transitions between scenes were seamlessly executed",2
+58,"""",0
+59,"""Severus Snape's character adds an air of mystery",0
+59,"""",0
+60,"""The production design is top-notch",2
+60,"""",0
+61,"""Albus Dumbledore's wisdom feels clichéd and uninspiring",1
+61,"""",0
+62,"""Magical storytelling with a touch of humor",2
+62,"""",0
+63,"""Draco Malfoy's cunning lacks the subtlety needed for a compelling character",2
+63,"""",0
+64,"""The soundtrack was enchanting and added depth to the storytelling",0
+64,"""",0
+65,"""Severus Snape's complexity adds depth to the story",0
+65,"""",0
+66,"""Draco Malfoy's character development is well-executed",0
+66,"""",0
+67,"""Albus Dumbledore's philosophical dialogues resonate long after the movie ends",0
+67,"""",0
+68,"""The plot lacks depth, making it uninteresting",0
+68,"""",0
+69,"""Fantastic movie for all ages",4
+69,"""",0
+70,"""A timeless fantasy for all ages",0
+70,"""",0
+71,"""Neville Longbottom's growth throughout the film is well-done",2
+71,"""",0
+72,"""The setting at Hogwarts feels like a magical haven",2
+72,"""",0
+73,"""The characters' growth is well-portrayed",2
+73,"""",0
+74,"""The magic duel scenes are intense and thrilling",1
+74,"""",0
+75,"""Draco Malfoy's character development was impressive",3
+75,"""",0
+76,"""The film's setting at Hogwarts lacks authenticity",0
+76,"""",0
+77,"""Albus Dumbledore's presence feels forced and unnecessary",-1
+77,"""",0
+78,"""The transitions between the real world and Hogwarts were seamless",2
+78,"""",0
+79,"""Hermione Granger's intelligence shines through",0
+79,"""",0
+80,"""Neville Longbottom's bravery is overshadowed and unexplored",2
+80,"""",0
+81,"""Hermione Granger's intelligence feels exaggerated and unrealistic",-2
+81,"""",0
+82,"""Ron Weasley's humor becomes irritating over time",-1
+82,"""",0
+83,"""The character interactions felt forced, and the story was predictable",-1
+83,"""",0
+84,"""Severus Snape's character complexity added an intriguing layer",0
+84,"""",0
+85,"""The film captures the essence of the wizarding world",0
+85,"""",0
+86,"""The film's production design lacks attention to detail",0
+86,"""",0
+87,"""Albus Dumbledore's wisdom adds a profound touch",1
+87,"""",0
+88,"""The montage sequences were visually stunning and well-choreographed",4
+88,"""",0
+89,"""Albus Dumbledore's presence adds gravitas",0
+89,"""",0
+90,"""The transitions between scenes felt forced, and the soundtrack was lackluster",-1
+90,"""",0
+91,"""Neville Longbottom's bravery is a standout",2
+91,"""",0
+92,"""The montage sequences were visually captivating and well-executed",0
+92,"""",0
+93,"""The film's relevance to friendship is heartening",2
+93,"""",0
+94,"""A magical journey through an enchanting world",0
+94,"""",0
+95,"""Dumbledore's wisdom shines through",1
+95,"""",0
+96,"""Captivating storyline with unexpected surprises",0
+96,"""",0
+97,"""The magical duel scenes are well-executed",0
+97,"""",0
+98,"""Neville Longbottom's character growth was inspiring",5
+98,"""",0
+99,"""Albus Dumbledore's wisdom resonates with every viewer",1
+99,"""",0
+100,"""The film explored deep themes of friendship and courage",4
+100,"""",0
+101,"""The magical world is brought to life beautifully",3
+101,"""",0
+102,"""The cinematography captures the magical essence of the wizarding world",0
+102,"""",0
+103,"""Neville Longbottom's growth feels rushed and unearned",2
+103,"""",0
+104,"""Neville Longbottom's character is overshadowed and forgotten",-1
+104,"""",0
+105,"""Hagrid's compassion for magical creatures is endearing",2
+105,"""",0
+106,"""The transitions between scenes felt forced, and the soundtrack was lackluster",-1
+106,"""",0
+107,"""The production design lacks creativity and imagination",0
+107,"""",0
+108,"""A journey of friendship and self-discovery",2
+108,"""",0
+109,"""The visual effects were mind-blowing, and Harry is my favorite character",2
+109,"""",0
+110,"""Hagrid's love for magical creatures is heartwarming",6
+110,"""",0
+111,"""The film's length allows for thorough storytelling",0
+111,"""",0
+112,"""Hagrid's character adds a wonderful touch to the movie",4
+112,"""",0
+113,"""The soundtrack failed to capture the magic of the wizarding world",-2
+113,"""",0
+114,"""The film's tone captures the magic and wonder of the wizarding world",0
+114,"""",0
+115,"""Neville Longbottom's character arc is unconvincing",0
+115,"""",0
+116,"""The montage sequences were poorly executed and felt out of sync",-2
+116,"""",0
+117,"""The magical world is both whimsical and dangerous",-1
+117,"""",0
+118,"""Ron Weasley's humor becomes repetitive and stale",2
+118,"""",0
+119,"""A captivating journey into the world of wizardry",0
+119,"""",0
+120,"""Hagrid's presence is a highlight, adding warmth and humor",6
+120,"""",0
+121,"""The soundtrack failed to capture the magic of the wizarding world",-2
+121,"""",0
+122,"""The magical world feels uninspired and generic",-2
+122,"""",0
+123,"""Draco Malfoy's character development is impressive",3
+123,"""",0
+124,"""The visual effects were lackluster, and the pacing was inconsistent",0
+124,"""",0
+125,"""Neville Longbottom's bravery adds depth to the characters",2
+125,"""",0
+126,"""Draco Malfoy's character added a layer of complexity to the plot",0
+126,"""",0
+127,"""I found the pacing a bit slow, but Ron Weasley's humor made up for it",2
+127,"""",0
+128,"""The magical creatures showcased in the film are visually stunning",4
+128,"""",0
+129,"""The film's tone fails to capture the magic of the wizarding world",-2
+129,"""",0
+130,"""The visual effects were outdated, and the pacing was unbearable",-2
+130,"""",0
+131,"""The characters' chemistry is the heart of the film",0
+131,"""",0
+132,"""The production design falls short of capturing the magic",0
+132,"""",0
+133,"""Hermione Granger's intelligence feels exaggerated and unrealistic",-2
+133,"""",0
+134,"""Rubeus Hagrid's warmth is a comforting presence in the film",4
+134,"""",0
+135,"""The cinematography is simply magical",0
+135,"""",0
+136,"""The characters' chemistry feels forced and unnatural",-1
+136,"""",0
+137,"""Rubeus Hagrid's love for magical creatures is endearing",3
+137,"""",0
+138,"""A magical adventure that stands the test of time",2
+138,"""",0
+139,"""The magical world created in this film is captivating and visually stunning",4
+139,"""",0
+140,"""The film's tone captures the magic of the wizarding world",0
+140,"""",0
+141,"""Hermione Granger's intelligence is a driving force",0
+141,"""",0
+142,"""The magic lessons are entertaining",2
+142,"""",0
+143,"""The well-balanced pacing kept me engaged from start to finish",1
+143,"""",0
+144,"""Incredible storytelling and cinematography",0
+144,"""",0
+145,"""Albus Dumbledore's quotes are thought-provoking",-1
+145,"""",0
+146,"""Albus Dumbledore's presence feels forced and unnecessary",-1
+146,"""",0
+147,"""The well-paced storytelling kept me engaged throughout the film",0
+147,"""",0
+148,"""Hagrid's love for magical creatures becomes a cliché",3
+148,"""",0
+149,"""Severus Snape's mysterious aura adds intrigue",1
+149,"""",0
+150,"""Hermione Granger's quick thinking saves the day",0
+150,"""",0
+151,"""The magical world didn't feel convincing, and the characters lacked depth",0
+151,"""",0
+152,"""Neville Longbottom's character is forgettable",-1
+152,"""",0
+153,"""Hermione Granger's character is a symbol of empowerment",2
+153,"""",0
+154,"""The magic is brought to life through stunning visuals",4
+154,"""",0
+155,"""The film's production design lacks attention to detail",0
+155,"""",0
+156,"""A magical experience for audiences of all ages",0
+156,"""",0
+157,"""Hermione Granger's intelligence is admirable",0
+157,"""",0
+158,"""The enchanting soundtrack perfectly complemented the magical atmosphere",3
+158,"""",0
+159,"""Severus Snape's character lacks nuance and complexity",0
+159,"""",0
+160,"""Severus Snape's mysterious motivations add an intriguing layer to the plot",0
+160,"""",0
+161,"""Severus Snape's mysterious aura adds an enigmatic quality",3
+161,"""",0
+162,"""Ron Weasley's loyalty is a highlight, adding heart to the story",5
+162,"""",0
+163,"""The film's themes of friendship and bravery are timeless",4
+163,"""",0
+164,"""Severus Snape's character arc is one of the highlights of the film",0
+164,"""",0
+165,"""Hagrid's love for magical creatures is heartwarming",6
+165,"""",0
+166,"""The soundtrack beautifully captured the essence of the wizarding world",3
+166,"""",0
+167,"""The magical world seemed artificial, and the characters were uninteresting",0
+167,"""",0
+168,"""I can't believe I waited so long to watch this masterpiece",4
+168,"""",0
+169,"""The magical world feels rich and immersive",2
+169,"""",0
+170,"""The visual effects created a stunning and immersive magical world",4
+170,"""",0
+171,"""The characters' chemistry adds depth to the storyline",0
+171,"""",0
+172,"""Neville's bravery steals the spotlight in this one",0
+172,"""",0
+173,"""The magic felt real and immersive",0
+173,"""",0
+174,"""The magical world lacks the sense of wonder it should evoke",0
+174,"""",0
+175,"""The film perfectly captures the essence of the book",3
+175,"""",0
+176,"""Hermione Granger's character is a role model for many",0
+176,"""",0
+177,"""Hagrid's character seems out of place and unnecessary",0
+177,"""",0
+178,"""The film's exploration of friendship and bravery resonated deeply",5
+178,"""",0
+179,"""The cinematography enhances the magical atmosphere, creating a visually stunning film",4
+179,"""",0
+180,"""Draco Malfoy's character added a layer of intrigue to the plot",0
+180,"""",0
+181,"""Draco Malfoy's character development is impressive",3
+181,"""",0
+182,"""The smooth transitions between scenes enhanced the storytelling",0
+182,"""",0
+183,"""The plot twists kept me on the edge of my seat",0
+183,"""",0
+184,"""The magical world lacked authenticity, and the characters felt flat",0
+184,"""",0
+185,"""A captivating introduction to the wizarding world",0
+185,"""",0
+186,"""The film's pacing felt rushed at times, but the magical elements kept me engaged",0
+186,"""",0
+187,"""Neville Longbottom's character arc is inspiring",3
+187,"""",0
+188,"""A cinematic masterpiece that will stand the test of time",4
+188,"""",0
+189,"""Spellbinding visual effects that transport you into the wizarding world",0
+189,"""",0
+190,"""The wizarding world comes to life brilliantly",0
+190,"""",0
+191,"""Neville Longbottom's bravery is inspiring",5
+191,"""",0
+192,"""The soundtrack perfectly complemented the magical atmosphere",3
+192,"""",0
+193,"""Hermione's intellect shines throughout",0
+193,"""",0
+194,"""The pacing was well-balanced, keeping the audience engaged",1
+194,"""",0
+195,"""Hagrid's love for magical creatures becomes a repetitive theme",3
+195,"""",0
+196,"""The transitions between scenes were jarring, and the soundtrack was dull",-2
+196,"""",0
+197,"""The film's production design is visually stunning",4
+197,"""",0
+198,"""A magical journey from start to finish",0
+198,"""",0
+199,"""A bit disappointed with the lack of character development",-4
+199,"""",0
+200,"""A magical journey that leaves you wanting more",0
+200,"""",0
+201,"""Magical creatures added a delightful touch",3
+201,"""",0
+202,"""Draco Malfoy's cunning adds a layer of suspense",2
+202,"""",0
+203,"""Hagrid's character seemed out of place, and the transitions were abrupt",0
+203,"""",0
+204,"""The wisdom and leadership of Albus Dumbledore shine in every scene",2
+204,"""",0
+205,"""Neville Longbottom's bravery stole the show for me",0
+205,"""",0
+206,"""Severus Snape's character is shrouded in mystery",0
+206,"""",0
+207,"""The magic duel scenes were exhilarating",3
+207,"""",0
+208,"""The special effects transport you to a magical realm",0
+208,"""",0
+209,"""Neville Longbottom's bravery is overshadowed and unexplored""",2
+210,"""Ron Weasley's humor adds a light-hearted touch",2
+210,"""",0
+211,"""Captivating storyline with unexpected twists and turns",0
+211,"""",0
+212,"""Draco Malfoy's character adds the perfect element of conflict",1
+212,"""",0
+213,"""Draco Malfoy's character growth is commendable",2
+213,"""",0
+214,"""Pacing was a bit slow, but the characters' development made up for it",0
+214,"""",0
+215,"""The enchanting world of Hogwarts captivated me",3
+215,"""",0
+216,"""The visual effects transported me to a world filled with magic and wonder",0
+216,"""",0
+217,"""Neville Longbottom's journey from timid to brave was inspiring",3
+217,"""",0
+218,"""The magical world created in this film is absolutely captivating",0
+218,"""",0
+219,"""Draco Malfoy's character lacks depth and complexity",0
+219,"""",0
+220,"""Clever use of magic in everyday life",2
+220,"""",0
+221,"""Albus Dumbledore's presence is both comforting and powerful",4
+221,"""",0
+222,"""Harry's journey is the heart of the film, making it a compelling watch",0
+222,"""",0
+223,"""The film's length is just right, not too long or short",0
+223,"""",0
+224,"""Albus Dumbledore's wisdom is a guiding light",1
+224,"""",0
+225,"""Severus Snape's character is enigmatic",0
+225,"""",0
+226,"""I felt like I was part of Hogwarts",2
+226,"""",0
+227,"""Neville Longbottom's character growth was both heartwarming and inspiring",8
+227,"""",0
+228,"""The characters' chemistry is delightful",3
+228,"""",0
+229,"""The film's tone captures the essence of the book",0
+229,"""",0
+230,"""The magical world created in this film is enchanting, and the characters are well-developed",0
+230,"""",0
+231,"""The visual effects were groundbreaking and added to the film's magic",0
+231,"""",0
+232,"""The magical atmosphere is enchanting",0
+232,"""",0
+233,"""Draco Malfoy's cunning adds a layer of suspense",2
+233,"""",0
+234,"""The visual effects were lackluster, and the pacing was inconsistent",0
+234,"""",0
+235,"""The pacing was just right, keeping me engaged throughout",0
+235,"""",0
+236,"""The smooth transitions between scenes enhanced the flow of the story",0
+236,"""",0
+237,"""Neville Longbottom stole the show",-2
+237,"""",0
+238,"""The montage sequences were creatively crafted and visually stunning",4
+238,"""",0
+239,"""The visual effects brought the magical world to life",0
+239,"""",0
+240,"""Hagrid's character added a lot of warmth and humor to the story",4
+240,"""",0
+241,"""Severus Snape's mysterious aura adds an intriguing layer to the film",1
+241,"""",0
+242,"""Draco Malfoy's character lacks depth and complexity",0
+242,"""",0
+243,"""The magic school concept is brilliantly executed",0
+243,"""",0
+244,"""The magical world created is truly enchanting",0
+244,"""",0
+245,"""I laughed, I cried, I loved every moment",2
+245,"""",0
+246,"""Severus Snape's complexity added depth to the story",0
+246,"""",0
+247,"""Quirky characters make the movie memorable",1
+247,"""",0
+248,"""Charm and wit make Draco Malfoy memorable",4
+248,"""",0
+249,"""Severus Snape's role is crucial to the plot",0
+249,"""",0
+250,"""Ron's humor adds a delightful touch to the overall tone of the film",5
+250,"""",0
+251,"""The magical world is brought to life with stunning visuals",4
+251,"""",0
+252,"""Spellbinding from start to finish",0
+252,"""",0
+253,"""The soundtrack perfectly complements the magical ambiance of Hogwarts",3
+253,"""",0
+254,"""The cultural references feel forced and out of place",-1
+254,"""",0
+255,"""Severus Snape's mysterious character kept me intrigued",0
+255,"""",0
+256,"""Ron Weasley's humor brings joy to every scene",5
+256,"""",0
+257,"""The magical world felt alive, thanks to the impressive visual effects",6
+257,"""",0
+258,"""The visual effects were outdated, and the pacing was unbearable",-2
+258,"""",0
+259,"""The rivalry between Draco Malfoy and Harry Potter is intense and well-played",1
+259,"""",0
+260,"""Draco Malfoy's character brought a necessary edge to the story",0
+260,"""",0
+261,"""Severus Snape's complexity adds depth to the story",0
+261,"""",0
+262,"""Albus Dumbledore's wisdom guides the characters",1
+262,"""",0
+263,"""The magical creatures bring the wizarding world to life",0
+263,"""",0
+264,"""Hagrid's character depth is explored beautifully, making him a memorable character",4
+264,"""",0
+265,"""Rubeus Hagrid's love for magical creatures is contagious",2
+265,"""",0
+266,"""The iconic soundtrack perfectly captured the whimsy of the magical world",3
+266,"""",0
+267,"""The Quidditch scenes are exhilarating",3
+267,"""",0
+268,"""Ron Weasley's loyalty is heartening",3
+268,"""",0
+269,"""The film's tone perfectly balances adventure and emotion",5
+269,"""",0
+270,"""The film's production design is a visual treat",0
+270,"""",0
+271,"""Hagrid's character feels like a caricature rather than genuine",2
+271,"""",0
+272,"""Draco Malfoy's character was one-dimensional, and the plot was predictable",0
+272,"""",0
+273,"""Ron Weasley's friendship with Harry is heartwarming",5
+273,"""",0
+274,"""Draco Malfoy's cunning adds tension",1
+274,"""",0
+275,"""I adore the friendship between Harry, Ron, and Hermione",5
+275,"""",0
+276,"""A journey into a world of wonder and magic",0
+276,"""",0
+277,"""The cultural references feel out of touch and forced",-1
+277,"""",0
+278,"""Hermione Granger's intelligence shines throughout",0
+278,"""",0
+279,"""The production design lacks creativity and imagination",0
+279,"""",0
+280,"""The trio's chemistry is the heart of the movie",0
+280,"""",0
+281,"""The humorous moments involving Ron Weasley bring lightness to the narrative",2
+281,"""",0
+282,"""Neville Longbottom's bravery is truly inspiring",5
+282,"""",0
+283,"""Draco Malfoy's character lacked nuance, and the plot was unengaging",0
+283,"""",0
+284,"""The magical world portrayed is awe-inspiring",3
+284,"""",0
+285,"""The special effects were amazing",4
+285,"""",0
+286,"""The pacing was sluggish, and the visual effects were unimpressive",-2
+286,"""",0
+287,"""The seamless transitions between scenes added to the magic",2
+287,"""",0
+288,"""Neville Longbottom's growth is truly inspiring",5
+288,"""",0
+289,"""The cinematography is outstanding",5
+289,"""",0
+290,"""Hagrid's character feels like a caricature rather than genuine",2
+290,"""",0
+291,"""Ron Weasley's humor adds a delightful touch",5
+291,"""",0
+292,"""The film's production design fails to create a believable world",-2
+292,"""",0
+293,"""Neville Longbottom's growth is a joy to witness",5
+293,"""",0
+294,"""Draco Malfoy's cunning and sly nature added an interesting dynamic to the narrative",4
+294,"""",0
+295,"""Ron Weasley's humor adds a light-hearted touch",2
+295,"""",0
+296,"""Draco Malfoy's character is a perfect foil",3
+296,"""",0
+297,"""Severus Snape's character adds complexity to the plot",0
+297,"""",0
+298,"""The setting lacks the enchantment expected from Hogwarts",0
+298,"""",0
+299,"""The special effects are truly enchanting",0
+299,"""",0
+300,"""Ron Weasley's humor adds charm",5
+300,"""",0
+301,"""The magical creatures add charm to the story",3
+301,"""",0
+302,"""Neville Longbottom's journey is relatable and inspiring",3
+302,"""",0
+303,"""The Sorcerer's Stone is a visual feast",0
+303,"""",0
+304,"""Albus Dumbledore's wisdom is reflected in the brilliant dialogue writing",5
+304,"""",0
+305,"""Albus Dumbledore's wisdom is a guiding force throughout the film",1
+305,"""",0
+306,"""Severus Snape's role is overshadowed and forgettable",-1
+306,"""",0
+307,"""The magical world feels alive and vibrant",4
+307,"""",0
+308,"""The movie captures the essence of the book",0
+308,"""",0
+309,"""Hermione Granger's intelligence shines brightly",0
+309,"""",0
+310,"""Draco Malfoy's cunning nature added tension to the plot",1
+310,"""",0
+311,"""Ron Weasley's character lacks depth and development",0
+311,"""",0
+312,"""The soundtrack was forgettable, and the pacing was painfully slow",-1
+312,"""",0
+313,"""The film's exploration of friendship and bravery resonated with me",5
+313,"""",0
+314,"""The plot twists kept me on the edge of my seat throughout the entire movie",0
+314,"""",0
+315,"""Draco Malfoy's character adds the perfect villainous touch",3
+315,"""",0
+316,"""The soundtrack enhances the magical atmosphere",0
+316,"""",0
+317,"""The film's setting in the wizarding world is enchanting",0
+317,"""",0
+318,"""Ron Weasley's humor adds a lighthearted touch to the film",3
+318,"""",0
+319,"""Ron Weasley's bravery shines in every scene",2
+319,"""",0
+320,"""The plot is filled with twists and turns",0
+320,"""",0
+321,"""Enjoyed the plot twists and turns",2
+321,"""",0
+322,"""Hermione's intelligence is inspiring",3
+322,"""",0
+323,"""The pacing kept me engaged, and the characters were lovable",3
+323,"""",0
+324,"""The character development was lacking, and the story felt uninspired",-2
+324,"""",0
+325,"""Severus Snape's enigmatic character added depth to the narrative",0
+325,"""",0
+326,"""Draco Malfoy's cunning lacks the subtlety needed for a compelling character",2
+326,"""",0
+327,"""Neville Longbottom's transformation is incredible",0
+327,"""",0
+328,"""I wish there was more focus on Neville's character",1
+328,"""",0
+329,"""The visual effects were mediocre, and the story felt disjointed",-2
+329,"""",0
+330,"""Captivating from the first spell to the last",0
+330,"""",0
+331,"""Severus Snape's mysterious aura adds depth",1
+331,"""",0
+332,"""Neville Longbottom's bravery is commendable",2
+332,"""",0
+333,"""Rubeus Hagrid's love for magical creatures is heartwarming",6
+333,"""",0
+334,"""Ron Weasley's humor becomes repetitive and stale",2
+334,"""",0
+335,"""Draco Malfoy's arrogance adds conflict",-2
+335,"""",0
+336,"""The film's length drags on, losing the audience's interest",-3
+336,"""",0
+337,"""Severus Snape's complexity adds depth to the storyline",0
+337,"""",0
+338,"""Snape's character adds an intriguing layer to the storyline",0
+338,"""",0
+339,"""The character development is well-executed, especially in Ron's journey",0
+339,"""",0
+340,"""The enchanting soundtrack enhanced the emotional depth of the film",0
+340,"""",0
+341,"""Albus Dumbledore's presence is magical",0
+341,"""",0
+342,"""Neville Longbottom's journey is a powerful narrative",2
+342,"""",0
+343,"""Rubeus Hagrid's love for magical creatures added a unique charm",6
+343,"""",0
+344,"""Severus Snape's role is confusing and underdeveloped",-2
+344,"""",0
+345,"""Draco Malfoy's character lacked nuance, and the plot was unengaging",0
+345,"""",0
+346,"""Draco Malfoy's cunning nature added tension to the plot",1
+346,"""",0
+347,"""The film fails to capture the spirit of the original book",-1
+347,"""",0
+348,"""I couldn't get enough of the magic",0
+348,"""",0
+349,"""The film's twists are well-crafted, leaving the audience pleasantly surprised",0
+349,"""",0
+350,"""Severus Snape's character lacks a compelling backstory",0
+350,"""",0
+351,"""The film's tone fails to capture the essence of the book",-2
+351,"""",0
+352,"""The visual effects were groundbreaking for its time",0
+352,"""",0
+353,"""The film's tone fails to capture the magic of the wizarding world",-2
+353,"""",0
+354,"""Albus Dumbledore's wisdom resonates throughout",1
+354,"""",0
+355,"""The conflicts in the storyline are well-executed, keeping the audience engaged",-2
+355,"""",0
+356,"""The film's production design is a visual feast",0
+356,"""",0
+357,"""The magical world feels both familiar and wondrous",0
+357,"""",0
+358,"""The film's production design is a visual feast",0
+358,"""",0
+359,"""A magical journey into the wizarding world",0
+359,"""",0
+360,"""The iconic soundtrack elevated the emotional impact of the film",0
+360,"""",0
+361,"""Neville Longbottom's growth feels rushed and unearned",2
+361,"""",0
+362,"""Draco Malfoy's character is more annoying than menacing",-2
+362,"""",0
+363,"""Neville Longbottom's courage and growth are portrayed with authenticity",4
+363,"""",0
+364,"""A must-watch for any fantasy lover",0
+364,"""",0
+365,"""Albus Dumbledore's wisdom feels clichéd and uninspiring",1
+365,"""",0
+366,"""The complexity of Severus Snape's character adds depth to the overall narrative",0
+366,"""",0
+367,"""Draco Malfoy's character adds the perfect amount of tension",2
+367,"""",0
+368,"""Albus Dumbledore's wisdom feels forced and preachy",0
+368,"""",0
+369,"""A must-watch for any fantasy lover",0
+369,"""",0
+370,"""The visual effects brought the magical world to life with incredible detail",0
+370,"""",0
+371,"""The cultural references feel forced and out of place",-1
+371,"""",0
+372,"""Hagrid's interactions with magical creatures showcase his love for them",3
+372,"""",0
+373,"""Draco Malfoy's character lacked depth, and the plot failed to captivate",-2
+373,"""",0
+374,"""The film's length allows for a thorough exploration of the story",1
+374,"""",0
+375,"""The storyline is captivating",0
+375,"""",0
+376,"""Albus Dumbledore's wisdom transcends the magical world",1
+376,"""",0
+377,"""Draco Malfoy's cunning nature adds tension to the plot",1
+377,"""",0
+378,"""Neville Longbottom's bravery is overshadowed and unexplored",2
+378,"""",0
+379,"""The film's tone fails to capture the essence of the book",-2
+379,"""",0
+380,"""Draco Malfoy's character adds the perfect antagonist",3
+380,"""",0
+381,"""Ron Weasley's humor is the highlight",4
+381,"""",0
+382,"""The enchanting soundtrack elevated the overall cinematic experience",0
+382,"""",0
+383,"""Neville Longbottom's character motivations are inspiring and relatable",3
+383,"""",0
+384,"""Snape's mysterious aura adds depth",1
+384,"""",0
+385,"""The magical atmosphere is spellbinding",0
+385,"""",0
+386,"""Neville Longbottom's growth is a joy to witness",5
+386,"""",0
+387,"""The film captures the essence of the wizarding universe",0
+387,"""",0
+388,"""The montage sequences were poorly edited, disrupting the flow",-4
+388,"""",0
+389,"""The montage sequences were visually stunning and artistically crafted",4
+389,"""",0
+390,"""Neville Longbottom's bravery and growth were truly inspiring",7
+390,"""",0
+391,"""Draco Malfoy's cunning nature adds tension",1
+391,"""",0
+392,"""The magical creatures are a delight to watch",3
+392,"""",0
+393,"""The film's tone is inconsistent and fails to engage",-1
+393,"""",0
+394,"""Severus Snape's motives are unclear and poorly explained",-3
+394,"""",0
+395,"""The film beautifully explored themes of friendship and courage",7
+395,"""",0
+396,"""Ron Weasley's comedic moments added a perfect balance to the storyline",3
+396,"""",0
+397,"""The well-paced storytelling kept me immersed in the wizarding world",0
+397,"""",0
+398,"""The film beautifully captures the spirit of the book",4
+398,"""",0
+399,"""Severus Snape's character motivations are revealed in a surprising and impactful way",0
+399,"""",0
+400,"""Severus Snape's character lacks a clear motive",1
+400,"""",0
+401,"""Albus Dumbledore's presence adds gravitas",0
+401,"""",0
+402,"""The characters' chemistry is delightful",3
+402,"""",0
+403,"""The magical world lacks the depth and complexity expected",0
+403,"""",0
+404,"""The magical creatures are a highlight",2
+404,"""",0
+405,"""The magical world seemed artificial, and the characters were uninteresting",0
+405,"""",0
+406,"""Neville Longbottom's bravery is admirable",2
+406,"""",0
+407,"""The cultural references add depth and relevance",0
+407,"""",0
+408,"""The magic lessons are both entertaining and educational",2
+408,"""",0
+409,"""The portrayal of Severus Snape's character was captivating and mysterious",0
+409,"""",0
+410,"""The magical elements are poorly executed and unconvincing",-2
+410,"""",0
+411,"""The special effects are subpar and take away from the magic",0
+411,"""",0
+412,"""The adaptation deviates too much from the source material",0
+412,"""",0
+413,"""The transitions between scenes were seamless and added to the magic",2
+413,"""",0
+414,"""A classic tale of good vs",3
+414,evil,-3
+414,"""",0
+415,"""The magical world feels so real and immersive",0
+415,"""",0
+416,"""The magical world feels uninspired and generic",-2
+416,"""",0
+417,"""Neville Longbottom's journey is a highlight",2
+417,"""",0
+418,"""Severus Snape's mysterious aura is intriguing",1
+418,"""",0
+419,"""Hagrid's warmth adds a special touch to the film",2
+419,"""",0
+420,"""Hermione Granger's intelligence shines in every scene",0
+420,"""",0
+421,"""The special effects are mind-blowing",0
+421,"""",0
+422,"""The magical creatures add a whimsical touch",1
+422,"""",0
+423,"""The soundtrack adds to the enchantment",0
+423,"""",0
+424,"""A journey worth taking over and over again",2
+424,"""",0
+425,"""The characters are rich and well-developed",2
+425,"""",0
+426,"""The visual effects transported me to a world of magic and wonder",0
+426,"""",0
+427,"""Fantastic portrayal of friendship and courage",8
+427,"""",0
+428,"""The setting at Hogwarts feels like a second home",2
+428,"""",0
+429,"""Severus Snape's complexity is fascinating",3
+429,"""",0
+430,"""The soundtrack evoked a sense of wonder and nostalgia",0
+430,"""",0
+431,"""The characters' chemistry feels forced and unnatural",-1
+431,"""",0
+432,"""The film's structure flows seamlessly, keeping the audience engaged",2
+432,"""",0
+433,"""The montage sequences were poorly edited, disrupting the flow",-4
+433,"""",0
+434,"""The pacing was inconsistent, and the visual effects were subpar",0
+434,"""",0
+435,"""Ron Weasley's loyalty is a testament to true friendship",7
+435,"""",0
+436,"""The cultural references make the film relatable",0
+436,"""",0
+437,"""The cultural references feel out of touch and forced",-1
+437,"""",0
+438,"""A magical world full of surprises",0
+438,"""",0
+439,"""Neville Longbottom's growth is a highlight of the film",4
+439,"""",0
+440,"""The cultural references feel forced and out of place",-1
+440,"""",0
+441,"""The magic school concept is ingenious",0
+441,"""",0
+442,"""Hagrid's love for magical creatures becomes a cliché",3
+442,"""",0
+443,"""Hermione Granger's intelligence is portrayed unrealistically",0
+443,"""",0
+444,"""Severus Snape's mysterious demeanor added intrigue to the storyline",0
+444,"""",0
+445,"""The film's tone captures the magic of the wizarding world",0
+445,"""",0
+446,"""The magical soundtrack added depth to the emotional moments",0
+446,"""",0
+447,"""Albus Dumbledore's wisdom is inspiring",4
+447,"""",0
+448,"""Hermione Granger's character feels overrated",0
+448,"""",0
+449,"""The magical world lacks the depth and complexity expected",0
+449,"""",0
+450,"""Neville Longbottom's character development is impressive",3
+450,"""",0
+451,"""Neville Longbottom's growth is inspiring",5
+451,"""",0
+452,"""The soundtrack adds an enchanting touch to the entire experience",0
+452,"""",0
+453,"""The soundtrack is iconic and instantly transports you to the wizarding world",0
+453,"""",0
+454,"""Albus Dumbledore steals the show with his wisdom",-1
+454,"""",0
+455,"""Magical world-building at its finest",3
+455,"""",0
+456,"""The pacing kept me on the edge of my seat throughout the film",0
+456,"""",0
+457,"""The film's tone is inconsistent, making it hard to follow",-1
+457,"""",0
+458,"""The soundtrack failed to evoke any emotions",-2
+458,"""",0
+459,"""Severus Snape's character lacks a clear motive",1
+459,"""",0
+460,"""The friendships feel genuine and heartwarming",3
+460,"""",0
+461,"""Draco Malfoy's character is one-dimensional and cliché",0
+461,"""",0
+462,"""Draco Malfoy's rivalry adds tension",-1
+462,"""",0
+463,"""Hermione Granger's intelligence shines throughout the film",0
+463,"""",0
+464,"""The characters are relatable and lovable",3
+464,"""",0
+465,"""The character interactions felt forced, and the story was predictable",-1
+465,"""",0
+466,"""Ron Weasley's loyalty is a highlight of the film",5
+466,"""",0
+467,"""Magical storytelling at its finest",3
+467,"""",0
+468,"""Draco Malfoy's character adds the perfect amount of tension",2
+468,"""",0
+469,"""The characters are lovable, but the plot is a bit predictable",3
+469,"""",0
+470,"""Ron Weasley's character development is one of the highlights of the movie",0
+470,"""",0
+471,"""The friendship dynamics feel forced and unnatural",1
+471,"""",0
+472,"""Draco Malfoy's character adds a layer of complexity",0
+472,"""",0
+473,"""I appreciate Hagrid's role as a guide to the magical world; his character is endearing",2
+473,"""",0
+474,"""The montage sequences were poorly executed, diminishing the overall experience",-2
+474,"""",0
+475,"""Draco Malfoy's character adds complexity",0
+475,"""",0
+476,"""Hermione Granger's intelligence shines brightly",0
+476,"""",0
+477,"""Neville Longbottom's character growth was both heartwarming and inspirational",7
+477,"""",0
+478,"""Draco Malfoy's character provided a compelling antagonist",0
+478,"""",0
+479,"""Albus Dumbledore's presence is both commanding and wise",0
+479,"""",0
+480,"""The magical world feels rich and immersive",2
+480,"""",0
+481,"""The magic felt real and mesmerizing",3
+481,"""",0
+482,"""Neville Longbottom's bravery stole the show for me",0
+482,"""",0
+483,"""The timeless soundtrack captured the essence of the magical world",0
+483,"""",0
+484,"""The film's magic is truly spellbinding",0
+484,"""",0
+485,"""Severus Snape's character adds an intriguing layer",0
+485,"""",0
+486,"""The soundtrack failed to enhance the emotional moments",-2
+486,"""",0
+487,"""I enjoyed the soundtrack and the magical feel of the movie",2
+487,"""",0
+488,"""Albus Dumbledore's wisdom resonates with the audience",1
+488,"""",0
+489,"""The characters' growth is heartwarming",5
+489,"""",0
+490,"""The film's exploration of themes like friendship and bravery is truly timeless",7
+490,"""",0

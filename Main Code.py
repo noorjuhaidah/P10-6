@@ -1,4 +1,5 @@
 import csv
+import re
 
 # -------- Load AFINN Dictionary --------
 def load_afinn(path):
@@ -9,9 +10,9 @@ def load_afinn(path):
             afinn[word] = int(score)
     return afinn
 
-# -------- Score one sentence --------
+# -------- Clean + Score one sentence --------
 def score_sentence(sentence, afinn):
-    words = sentence.lower().split()
+    words = re.findall(r"[a-zA-Z]+", sentence.lower())
     score = 0
     for w in words:
         if w in afinn:
@@ -26,16 +27,12 @@ def analyze(csv_file, afinn_file):
     max_sent = ("", -9999)
     min_sent = ("", 9999)
 
-    # Open CSV manually (assume first column has reviews)
-    with open(csv_file, "r", encoding="utf-8") as f:
-        reader = csv.reader(f)
-        header = next(reader)  # skip header row
+    # Use DictReader so we can pick 'comment' column by name
+    with open(csv_file, "r", encoding="utf-8", errors="ignore") as f:
+        reader = csv.DictReader(f)
         for idx, row in enumerate(reader):
-            if not row:
-                continue
-            review = row[0]  # first column text
-            # simple split into sentences using "."
-            sentences = review.split(".")
+            review = row["comment"]   # <-- use the review text
+            sentences = re.split(r"[.!?]+", review)
             for sent in sentences:
                 sent = sent.strip()
                 if not sent:
@@ -47,7 +44,7 @@ def analyze(csv_file, afinn_file):
                 if score < min_sent[1]:
                     min_sent = (sent, score)
 
-    # Save results to new CSV
+    # Save results to a NEW CSV
     with open("sentence_scores.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["review_index", "sentence", "score"])
@@ -62,5 +59,6 @@ if __name__ == "__main__":
     CSV_FILE = "harry_potter_reviews.csv"   # your Kaggle dataset file
     AFINN_FILE = "AFINN-en-165.txt"         # dictionary file
     analyze(CSV_FILE, AFINN_FILE)
+
 
 
